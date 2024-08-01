@@ -1,0 +1,21 @@
+{
+  "name": "project11_oop_mybank",
+  "version": "1.0.0",
+  "description": "In this project you are going to follow this [video](https://www.youtube.com/watch?v=pzZGlU0n2IU) which explains object oriented programming using C# and write the same code in TypeScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
